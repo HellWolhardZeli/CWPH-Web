@@ -1,2 +1,8 @@
-
-
+.carousel-item img{
+    width: fit-content;
+    max-height: 70vh;
+}
+.carousel-indicators{
+    bottom: 0;
+    padding-bottom: 15vh;
+}
