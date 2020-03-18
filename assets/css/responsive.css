@@ -1,0 +1,8 @@
+@media (max-width:991px){
+    .nav-tabs>li{
+        width: auto;
+    }
+    .mob-remove{
+        display: none;
+    }
+}
