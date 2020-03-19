@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Chettan+2:500&display=swap");
+.video {
+  width: 100%;
+  padding: 60px 0 120px 0;
+  background: linear-gradient(
+    to right,
+    rgb(231, 171, 91) 0%,
+    rgb(221, 118, 89) 100%
+  );
+}
+
+.video-heading {
+  text-align: center;
+  padding-top: 60px;
+  font-family: "Baloo Chettan 2", cursive;
+  color: #fff;
+  font-size: 60px;
+  padding-bottom: 30px;
+}
+.video .description {
+  margin: 30px 0 0 0;
+  padding-bottom: 30px;
+}
+.video .description p {
+  color: #fff;
+  color: rgba(255, 255, 255, 0.8);
+}
+.video .description a {
+  color: #fff;
+  color: rgba(255, 255, 255, 0.8);
+  border-color: #fff;
+  border-color: rgba(255, 255, 255, 0.8);
+}
+.video .description a:hover,
+.video .description a:focus {
+  color: #fff;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.video .carousel {
+  box-shadow: 0 0 15px 0 #444;
+  padding-top: 0;
+}
+.video .carousel-control-prev {
+  border-bottom: 10;
+  left: -20%;
+}
+.video .carousel-control-next {
+  border-bottom: 10;
+  right: -20%;
+}
+.video .carousel-indicators {
+  bottom: -80px;
+}
+.video .carousel-indicators li {
+  width: 16px;
+  height: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 50%;
+}
