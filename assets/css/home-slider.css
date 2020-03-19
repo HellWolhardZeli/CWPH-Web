@@ -1,0 +1,47 @@
+.carousel {
+  padding-top: 20vh;
+  position: relative;
+}
+
+.tab-pane h3 {
+  color: beige;
+}
+.tab-pane p {
+  color: cornsilk;
+}
+
+.nav_about > .nav-item > .nav-link {
+  color: antiquewhite;
+}
+
+.nav_about > .nav-item > .nav-link:hover {
+  background-color: coral;
+}
+
+.nav_about > .nav-item > .active {
+  background-color: coral;
+}
+/* .tab-content > .active {
+  background-color: rgb(192, 216, 114);
+} */
+#about {
+  background: rgb(26, 42, 43);
+}
+.tab-pane > .container {
+  padding-left: 90px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.tab-pane {
+  border-left: 2px solid orange;
+}
+.page-section {
+  padding-bottom: 100px;
+  padding-top: 60px;
+}
+.heading-about {
+  color: coral;
+  text-align: center;
+  padding-bottom: 10px;
+  text-decoration: underline;
+}
