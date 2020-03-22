@@ -38,4 +38,17 @@
     margin-left: 10px;
     margin-right: 10px;
   }
+  .popup-gallery {
+    height: 50vh;
+    overflow: scroll;
+  }
+  .mob-about-link {
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+  }
+  .mob-about-link li {
+    padding-left: 4vw;
+  }
 }
