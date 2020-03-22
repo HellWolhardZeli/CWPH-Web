@@ -54,4 +54,7 @@
   .mob-hide {
     display: none;
   }
+  #home-carousel {
+    padding-top: 10vh;
+  }
 }
