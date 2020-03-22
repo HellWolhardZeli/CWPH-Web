@@ -51,4 +51,7 @@
   .mob-about-link li {
     padding-left: 4vw;
   }
+  .mob-hide {
+    display: none;
+  }
 }
