@@ -60,7 +60,19 @@
   .modal-button {
     padding-left: 30vw;
   }
+  .modal-button-terms {
+    padding-left: 25vw;
+  }
   .tab-pane > .container {
     padding-left: 30px;
   }
+}
+.modal-button-terms {
+  padding-top: 10vh;
+  padding-left: 40vw;
+  padding-bottom: 0;
+}
+.modal-button-terms button {
+  background-color: gray;
+  border: 0;
 }
