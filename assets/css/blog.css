@@ -41,3 +41,9 @@
 #contact {
   height: 80vh;
 }
+.modal-header {
+  background: rgb(26, 42, 43);
+}
+.modal-body {
+  background-color: antiquewhite;
+}

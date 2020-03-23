@@ -57,4 +57,10 @@
   #home-carousel {
     padding-top: 10vh;
   }
+  .modal-button {
+    padding-left: 30vw;
+  }
+  .tab-pane > .container {
+    padding-left: 30px;
+  }
 }
